@@ -4,7 +4,7 @@ from psycopg2 import sql
 DB_CONFIG = {
     "dbname": "benchmark",
     "user": "siddhant",
-    "password": "SIDDHANT13@@rn@v25",
+    "password": "",
     "host": "localhost",
     "port": 5432
 }
