@@ -1,6 +1,7 @@
+from load import insert_data
+
 def main():
     print("Hello from setup!")
-
 
 
 
